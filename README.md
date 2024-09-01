@@ -11,3 +11,7 @@ How it works is by filtering the announcements by the given keywords and downloa
 * The keywords to use to categorise and also ignore is from an Excel file to enable users to easily adjust the categories.
 * The reason why we need to download using selenium and pyAutoGUI is the company's security limitation, it doesn't let them download files in the background.
 * PDF reader function for meetings not included here
+
+## Swiss Stock Exchange
+
+The purpose of scraping the Swiss Stock Exchange was to get a list of companies listed and their issued capital amount at the time of being scraped. This decrease the time for validation by 90% and increase accuracy and timeliness of the company's database by 70%.
